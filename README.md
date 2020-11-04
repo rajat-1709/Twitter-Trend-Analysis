@@ -1,5 +1,5 @@
 # Twitter-Trend-Analysis  <img src="http://pngimg.com/uploads/twitter/twitter_PNG40.png" alt="Twitter Logo" width="150" height="50">
-<img src ="https://source.unsplash.com/1600x900/?data,analysis,twitter" width="350" height="250">
+<img src ="https://source.unsplash.com/1600x900/?data" width="350" height="250">
 <br>
 <h1This Project is for Research on Particular Hashtag and Finding a Useful Insight/> 
 
@@ -28,8 +28,7 @@ Twitter has become increasingly popular with academics as well as students, poli
   Obtained data is Plotted on a Bar Grap with the help of python which can be seen Below!
   </p>
   <br>
-  
-  <img src=" " alt ="Graph Analysis">
+  <img src="Graph.png" >
   </p>
   <b>Analysis</b>
   <p>
